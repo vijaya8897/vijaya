@@ -1,10 +1,10 @@
 public class StudentInformation{
-	public static void main(string[] args){
+	public static void main(String[] args){
 		PrintStudentInfo();
 	}
 	private static void PrintStudentInfo(){
-		string collegeName="AITS";
-		string studentName="krishna";
+		String CollegeName="AITS";
+		String StudentName="krishna";
 		int rollNumber=1596;
 		System.out.println("collegeName:"+collegeName);
 	        System.out.println("studentName:"+studentName);
